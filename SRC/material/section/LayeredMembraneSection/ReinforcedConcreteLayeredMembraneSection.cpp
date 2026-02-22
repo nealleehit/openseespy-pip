@@ -25,6 +25,7 @@
 #include <Parameter.h>
 #include <MaterialResponse.h>
 #include <algorithm>				/*min, max*/
+#include <limits>
 #include <DummyStream.h>
 
 using namespace std;
